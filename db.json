@@ -175,8 +175,8 @@
             {
                 "title": "Data set",
                 "data": [
-                    {"title": "ADC", "id": "34", data: []},
-                     {"title": "Checkpoint", "id": "49", data: []}
+                    {"title": "ADC", "id": "34", "data": []},
+                     {"title": "Checkpoint", "id": "49", "data": []}
                 ]
             },
             {
